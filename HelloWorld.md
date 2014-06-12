@@ -1,3 +1,2 @@
-datasciencecoursera
-HelloWorld.md
+datasciencecourse
 
